@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\bin\Debug\Calculator_Again.exe.config
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\bin\Debug\Calculator_Again.exe
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\bin\Debug\Calculator_Again.pdb
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.Properties.Resources.resources
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.exe
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.pdb
+C:\Users\User\source\repos\Calculator_Again\Calculator_Again\obj\Debug\Calculator_Again.Form1.resources
